@@ -1,0 +1,20 @@
+{
+	"slug" : "understanding-networks-internals",
+	"title" : "Understanding the network internals",
+	"preview": "https://breathecode.herokuapp.com/v1/media/file/thumbnail-introduccion-packet-tracer",
+	"status": "draft",
+	"translations": ["us","es"],
+	"technologies": ["cybersecurity", "network"],
+	"difficulty": "beginner",
+	"syntax": "markdown",
+	"duration" : 3,
+  "projectType": "project",
+	"description" : "Analyze the elements of a network, and identify where are being applied the concepts you already know",
+	"delivery": {
+		"instructions": {
+			"us": "Please drag your finished pka file and upload it here",
+			"es": "Por favor adjunta tu archivo pka listo y cárgalo aquí"
+		},
+		"formats": ["application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/pdf"]
+	}
+}
