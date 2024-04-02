@@ -12,8 +12,8 @@
 	"description" : "Analyze the elements of a network, and identify where are being applied the concepts you already know",
 	"delivery": {
 		"instructions": {
-			"us": "Please drag your finished pka file and upload it here",
-			"es": "Por favor adjunta tu archivo pka listo y cárgalo aquí"
+			"us": "Attach a text document with your project",
+			"es": "Adjunta un documento de texto con tu proyecto"
 		},
 		"formats": ["application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/pdf"]
 	}
