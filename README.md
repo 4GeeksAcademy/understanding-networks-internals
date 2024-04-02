@@ -1,42 +1,61 @@
-# Troubleshooting a network with Packet Tracer
+# Understanding the network internals
 
 <!-- hide -->
-<a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/installing-windows-on-virtual-machine/blob/master/js-bg-badge.png"></a>
-
 > By [@arnaldoperez](https://github.com/arnaldoperez) and [other contributors](https://github.com/4GeeksAcademy/installing-windows-on-virtual-machine/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
-![last commit](https://img.shields.io/github/last-commit/4geeksacademy/installing-windows-on-virtual-machine)
+![last commit](https://img.shields.io/github/last-commit/4geeksacademy/understanding-networks-internals)
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://4geeks.com)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
-*Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/installing-windows-on-virtual-machine/blob/main/README.es.md) :es:*
 <!-- endhide -->
-
-In this scenario you'll act as the person in charge of the network in a 4Geeks Academy campus. You must complete the configurations needed in order to get the network up and running, and also implement security policies to guarantee the correct use of the internal services in the network.
-
-This practice covers the following subjects:
-
-1. IP Adresses
-2. Setting up a DHCP server
-3. Setting up a DNS server
-4. WiFi networks
-5. Access control list (ACL)
-
-<!-- hide -->
-## Before you start... some related tutorials:
-
-> We need you! These exercises are built and maintained in collaboration with contributors such as yourself. If you find any bugs or misspellings please contribute and/or report them.
-
-<!-- endhide -->
-
-## Download and run:
-
-[Download here](https://github.com/4GeeksAcademy/network-troubleshooting/raw/master/assets/network-troubleshooting.pka) the file and open it with Packet Tracer, there you will find the instructions to follow and achieve the proposed objectives.
 
 ## Instructions
 
-Outside Packet Tracer, you can find the [instructions here](https://github.com/4GeeksAcademy/network-troubleshooting/blob/master/instructions.md)
+### Based on the network that you build on the prework:
 
+![intro network](./assets/network.png)
+
+You are a network consultant and have been hired to improve the network architecture of a small company. The company currently has a network that has grown organically over time and is experiencing performance and security issues. Your task is to assess the current situation and propose improvements. You have the following information:
+
+### The company has the following requirements
+
+- The network should have the capacity to grow up to 100 devices.
+- The network should be divided into sub-networks for the Marketing, Technology and Accounting departments.
+- The network capacity for each department is as follows:
+  - Marketing: 30 devices
+  - Technology: 40 devices
+  - Accounting: 15 devices
+  - The remaining capacity is reserved for future growth.
+- Each subnet should have its own private server. Only the Technology department's server should be available to all networks.
+
+### Questions and Challenges:
+
+1. **Assessment of the Current Situation:** 
+    - What is the extent of the current network?
+    - What problems can be expected if there are no improves to the company's network?
+2. **Network Topology:**
+    - What network topology would you use for this company?
+    - How should devices and servers be connected?
+3. **Network equipment:** 
+    - What type of network devices are needed (routers, switches, firewalls, etc.)?
+    - What technical specifications must these devices meet?
+4. Network Security:
+    - What are the security measures required to protect the network?
+    - How should security devices, such as firewall, be configured?
+5. **Network Management:**
+    - How will network devices be managed and monitored?
+    - What policies should be implemented in terms of personnel to have a secure network?
+    - Will a network management system (NMS) or monitoring tools be implemented?
+6. **Implementation Plan:** 
+    - What is the implementation schedule for the proposed enhancements?
+    - How will these changes be communicated to employees?
+7. **Ongoing Maintenance:** 
+    - What steps will be taken to ensure ongoing network maintenance and upgrades?
+    - Will security policies and incident response procedures be established?
+8. **Evaluation of Success:** 
+    - How will the success of the enhancements be measured? What metrics will be used to evaluate network performance and security after implementation?
+    
+> ⚠️ **Remember: There are no wrong answers in terms of network topologies and devices, try to make the network as optimal as possible.** 
 
 ## Contributors
 
