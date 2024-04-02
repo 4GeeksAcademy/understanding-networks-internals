@@ -13,7 +13,7 @@
 
 ### Based on the network that you build on the prework:
 
-![intro network](./assets/network.png)
+![intro network](https://github.com/4GeeksAcademy/understanding-networks-internals/blob/master/assets/network.png?raw=true)
 
 You are a network consultant and have been hired to improve the network architecture of a small company. The company currently has a network that has grown organically over time and is experiencing performance and security issues. Your task is to assess the current situation and propose improvements. You have the following information:
 

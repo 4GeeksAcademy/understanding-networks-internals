@@ -13,7 +13,7 @@
 
 ### Basados en la red configurada en el prework:
 
-![intro network](./assets/network.png)
+![intro network](https://github.com/4GeeksAcademy/understanding-networks-internals/blob/master/assets/network.png?raw=true)
 
 Eres un consultor de redes y te han contratado para mejorar la arquitectura de red de una pequeña empresa. La empresa actualmente tiene una red que ha crecido orgánicamente con el tiempo y está experimentando problemas de rendimiento y seguridad. Tu tarea es evaluar la situación actual y proponer mejoras. Cuentas con la siguiente información:
 
