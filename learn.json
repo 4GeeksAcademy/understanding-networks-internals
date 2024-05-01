@@ -1,6 +1,9 @@
 {
 	"slug" : "understanding-networks-internals",
-	"title" : "Understanding the network internals",
+	"title" : {
+		"en":"Understanding the network internals",
+		"es":"Entendiendo las redes desde dentro"
+	},
 	"preview": "https://breathecode.herokuapp.com/v1/media/file/thumbnail-introduccion-packet-tracer",
 	"status": "draft",
 	"translations": ["us","es"],
