@@ -9,7 +9,7 @@
 
 <!-- endhide -->
 
-## Instrucciones
+## 📝 Instrucciones
 
 ### Basados en la red configurada en el prework:
 
@@ -56,6 +56,11 @@ Eres un consultor de redes y te han contratado para mejorar la arquitectura de r
     - ¿Cómo se medirá el éxito de las mejoras? ¿Qué métricas se utilizarán para evaluar el rendimiento y la seguridad de la red después de la implementación?
     
 > ⚠️ **Recuerda: No hay respuestas incorrectas en cuanto a topologías de red y dispositivos, intenta hacer la red lo más óptima posible.**
+
+## 🚛 ¿Cómo entregar este proyecto?
+
+Elabora un documento de texto con las respuestas a las preguntas que están en las instrucciones. Una vez tengas listo tu documento cárgalo en la plataforma 4geeks.com en el proyecto correspondiente.
+
 
 <!-- hide -->
 ## Colaboradores

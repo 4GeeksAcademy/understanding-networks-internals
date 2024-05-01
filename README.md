@@ -9,7 +9,7 @@
 
 <!-- endhide -->
 
-## Instructions
+## 📝 Instructions
 
 ### Based on the network that you build on the prework:
 
@@ -55,7 +55,11 @@ You are a network consultant and have been hired to improve the network architec
 8. **Evaluation of Success:** 
     - How will the success of the enhancements be measured? What metrics will be used to evaluate network performance and security after implementation?
     
-> ⚠️ **Remember: There are no wrong answers in terms of network topologies and devices, try to make the network as optimal as possible.** 
+> ⚠️ **Remember: There are no wrong answers in terms of network topologies and devices, try to make the network as optimal as possible.**
+
+## 🚛 How to deliver this project?
+
+Create a text document with the answers to the questions in the instructions. Once you have your document ready, upload it to the 4geeks.com platform in the corresponding project.
 
 <!-- hide -->
 ## Contributors
