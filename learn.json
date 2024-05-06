@@ -12,7 +12,10 @@
 	"syntax": "markdown",
 	"duration" : 3,
   "projectType": "project",
-	"description" : "Analyze the elements of a network, and identify where are being applied the concepts you already know",
+	"description": {
+		"en": "Analyze the elements of a network, and identify where are being applied the concepts you already know",
+		"es": "Analiza los elementos de una red e identifica dónde se están aplicando los conceptos que ya conoces."
+	},
 	"delivery": {
 		"instructions": {
 			"us": "Attach a text document with your project",
