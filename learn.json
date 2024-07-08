@@ -18,8 +18,8 @@
 	},
 	"delivery": {
 		"instructions": {
-			"us": "Attach a text document with your project",
-			"es": "Adjunta un documento de texto con tu proyecto"
+			"us": "Create a text document with the answers to the questions in the instructions",
+			"es": "Adjunta un documento con las respuestas a las preguntas"
 		},
 		"formats": ["application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/pdf"]
 	}
