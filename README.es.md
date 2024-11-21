@@ -1,6 +1,6 @@
+<!-- hide -->
 # Entendiendo las redes desde dentro
 
-<!-- hide -->
 > By [@arnaldoperez](https://github.com/arnaldoperez) and [other contributors](https://github.com/4GeeksAcademy/installing-windows-on-virtual-machine/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
 ![last commit](https://img.shields.io/github/last-commit/4geeksacademy/understanding-networks-internals)
