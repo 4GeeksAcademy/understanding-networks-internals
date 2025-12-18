@@ -11,7 +11,6 @@
 
 ## 📝 Instrucciones
 
-### Basados en la red configurada en el prework:
 
 ![intro network](https://github.com/4GeeksAcademy/understanding-networks-internals/blob/master/assets/network.png?raw=true)
 
