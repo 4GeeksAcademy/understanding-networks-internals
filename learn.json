@@ -1,26 +1,29 @@
 {
 	"slug" : "understanding-networks-internals",
 	"title" : {
-		"en":"Understanding the network internals",
+		"us":"Understanding the network internals",
 		"es":"Entendiendo las redes desde dentro"
 	},
 	"preview": "https://breathecode.herokuapp.com/v1/media/file/thumbnail-introduccion-packet-tracer",
 	"status": "draft",
 	"translations": ["us","es"],
-	"technologies": ["cybersecurity", "network"],
+	"technologies": ["cybersecurity", "network", "redes", "ciberseguridad"],
 	"difficulty": "beginner",
 	"syntax": "markdown",
 	"duration" : 3,
   	"projectType": "project",
 	"description": {
-		"en": "Analyze the elements of a network, and identify where are being applied the concepts you already know",
-		"es": "Analiza los elementos de una red e identifica dónde se están aplicando los conceptos que ya conoces."
+		"us": "Analyze the key elements of a network and identify how the networking concepts you’ve learned are applied. You’ll assess a company’s current network, spot performance and security issues, and propose improvements. This project helps you deepen your understanding of network architecture and management.",
+		"es": "Analiza los elementos clave de una red e identifica cómo se aplican los conceptos de redes que has aprendido. Evaluarás la red actual de una empresa, detectarás problemas de rendimiento y seguridad, y propondrás mejoras. Este proyecto te ayudará a profundizar en la arquitectura y gestión de redes."
 	},
 	"delivery": {
 		"instructions": {
 			"us": "Create a text document with the answers to the questions in the instructions",
 			"es": "Adjunta un documento con las respuestas a las preguntas"
 		},
-		"formats": ["application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/pdf"]
+		"formats": ["application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/pdf"],
+		"telemetry": {
+	    	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=1548"
+	  }
 	}
 }
